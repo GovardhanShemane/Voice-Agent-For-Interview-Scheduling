@@ -40,30 +40,6 @@ Mozilla TTS (Text to Speech)
 
 Rasa / Mycroft (NLP/Dialog system)
 
-📁 Folder Structure
-arduino
-Copy
-Edit
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── routes/
-│   ├── server.js
-│
-├── frontend/
-│   ├── src/
-│   ├── components/
-│   ├── pages/
-│   └── App.js
-🧪 How to Run Locally
-🔧 Backend
-bash
-Copy
-Edit
-cd backend
-npm install
-node server.js
-Make sure your MySQL database is running and configured properly.
 
 🌐 Frontend
 bash
