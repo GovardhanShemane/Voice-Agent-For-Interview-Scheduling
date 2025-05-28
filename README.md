@@ -60,5 +60,5 @@ appointments: id, candidateId, jobId, time
 conversations: id, candidateId, transcript, created_at
 
 📽️ Demo Video
-👉 Watch the Demo (Replace with actual link)
+👉 Watch the Demo:  https://drive.google.com/file/d/1WWnKKPU3hlnQ6CVOWEwIJmOj8x8Jisbr/view?usp=sharing
 
